@@ -1,0 +1,4 @@
+It's a bot, returns movie rating and plot. Built using App Engine's XMPP service.
+
+It is written in Flask. Create App Engine project and copy this app.
+
